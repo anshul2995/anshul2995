@@ -1,7 +1,6 @@
-import java.io.File;
+package src;
+
 import java.io.FileNotFoundException;
-import java.io.IOError;
-import java.io.IOException;
 
 public class a extends b{
 

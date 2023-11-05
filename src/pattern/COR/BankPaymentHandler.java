@@ -1,4 +1,4 @@
-package pattern.COR;
+package src.pattern.COR;
 
 public class BankPaymentHandler extends PaymentHandler{
     @Override

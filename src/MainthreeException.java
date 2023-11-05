@@ -1,3 +1,5 @@
+package src;
+
 public class MainthreeException {
 
     public static void main(String[] args) {

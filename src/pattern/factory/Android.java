@@ -1,4 +1,4 @@
-package pattern.factory;
+package src.pattern.factory;
 
 public class Android implements OS{
     public void show(){

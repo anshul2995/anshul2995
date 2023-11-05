@@ -1,4 +1,4 @@
-package pattern.singleton;
+package src.pattern.singleton;
 
 public final class singleton {
     private static volatile singleton instance;

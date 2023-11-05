@@ -1,4 +1,4 @@
-package pattern.builder;
+package src.pattern.builder;
 
 public class main {
 

@@ -1,0 +1,22 @@
+faith hamesha choti problem k lie banta h.
+
+
+levels and options means???
+we are at a particular level and at that particular level, we will explore all the options that we have.
+bottom up approach
+
+explore all the options -->> yahi basically saari recursive calls hoti h.
+
+F & E
+tm jawab do, hum apne jawab banayenge.
+n-1 tak jawab aa gya
+n pe humm apna jawab banayenge.
+topdown approach
+
+
+
+ Why didn't you use the frame work for recursion that you were using in the beginning ? (Diff b/w Faith and Expectations and level and options)
+  -->> Because these problems are about making choices and these type of questions are void recursion based questions where we explore multiple choices .
+  In the beginning we solved questions which were not void recursion and they were questions which relied on the recursive solution for a smaller input for building
+  an output for a bigger input, those were faith-expectation problems and these are  exhaustive choice exploration problems (backtracking) hence the same
+  framework used in the earlier problems isn't used in these types of problems as these are predominantly two different types of recursive problems !!!!!!!

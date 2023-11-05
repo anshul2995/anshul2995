@@ -1,3 +1,5 @@
+package src;
+
 public class b {
 
     static void m1(){

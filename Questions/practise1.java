@@ -1,3 +1,5 @@
+package Questions;
+
 import java.util.*;
 
 class practise1 {
