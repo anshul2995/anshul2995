@@ -1,4 +1,4 @@
-package src1;
+package src.src1;
 
 public class B extends A {
 

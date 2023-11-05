@@ -1,4 +1,4 @@
-package src1;
+package src.src1;
 
 public class B_static extends A_static{
     static void display(){
